@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5afec4daf7921cd8",
+        "id": "a6b20e63fa0c47e7",
         "type": "tabs",
         "children": [
           {
-            "id": "40f483cb2107106f",
+            "id": "7703278f58b0aa8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Features/The Mountain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e607526524db01e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed3b6b3b5da466c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Differed Rules.md",
+                "file": "World Features/The Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Features/The Mountain.md",
+                "file": "World Features/The Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Features/The Mountain.md",
+                "file": "World Features/The Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Features/The Mountain.md"
+                "file": "World Features/The Selection.md"
               }
             }
           }
@@ -166,18 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40f483cb2107106f",
+  "active": "7703278f58b0aa8b",
   "lastOpenFiles": [
-    "Basic Theme.md",
     "World Features/The Mountain.md",
-    "World Features",
+    "World Features/The Heart of the Mountain.md",
+    "World Features/Adva's Acadamy for the Youth.md",
+    "Homebrew/Spells.md",
+    "World Features/The Selection.md",
+    "Basic Plot.md",
+    "Homebrew/Backgrounds.md",
     "Homebrew/Differed Rules.md",
     "Homebrew/Classes.md",
-    "Homebrew/Spells.md",
     "Homebrew/Races.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Homebrew/Feats.md",
-    "Homebrew/Backgrounds.md",
-    "Homebrew",
-    "Homebrew/Aproved Spells.md"
+    "Homebrew/Aproved Spells.md",
+    "World Features",
+    "Homebrew"
   ]
 }

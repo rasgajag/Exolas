@@ -1,5 +1,8 @@
+- [[Differed Rules|Homebrew is major]]
 - Everyone is stuck inside [[The Mountain|the mountain]] because of (complicated magic, burned the air and made it impossible to breathe outside)
 	- This is not true but, this is what the public is told
 		- Because the outside world was destroyed by magic all non aproved magic is banned.
 			- (Any inventions by artificers, or any new spells created with the theory of magic.)
-- [[Differed Rules|Homebrew is major]]
+- The Pc's start in their last week of school aprouching [[World Features/The Selection|the selection]]
+- After [[World Features/The Selection|the selection]] the pcs leave the building to find a small dagger embeded into the stone with the [[World Features/The Heart of the Mountain|symbol of a music note]] sitting on the bottom
+- 
